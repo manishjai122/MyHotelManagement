@@ -1,0 +1,86 @@
+﻿.para {
+    width: 500px;
+    height: 300px;
+    border: solid 2px black;
+    margin: auto;
+    margin-top: 100px;
+}
+
+.inner_box {
+    width: 90%;
+    height: 250px;
+    margin: auto;
+    margin-top: 30px;
+}
+
+.first_text {
+    width: 65%;
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 50px;
+}
+
+.sub_btn {
+    float: right;
+    margin-right: 50px;
+}
+
+.text_box {
+    font-size: 1.2rem;
+    text-align: center;
+}
+.Container {
+    width: 600px;
+    margin: auto;
+    margin-top: 50px;
+    border: solid 2px black;
+}
+
+.mid_container {
+    width: 90%;
+    margin: auto;
+    margin-top: 20px;
+}
+
+.field {
+    width: 90%;
+    margin: auto;
+    margin-bottom: 30px;
+}
+
+.namefield, .sirnamefield {
+    width: 45%;
+    text-align: center;
+    font-size: 1.2rem;
+    
+}
+.border_style {
+    border: none;
+    border-bottom: solid 2px black;
+}
+
+.sirnamefield {
+    margin-left: 10px;
+}
+
+.co_field {
+    text-align: center;
+    font-size: 1.2rem;
+}
+
+.btn_sub {
+    float: right;
+    width: 85px;
+    margin-left: 50px;
+}
+.auto-style1 {
+    width: 403px;
+}
+
+.auto-style2 {
+    width: 189px;
+}
+
+.auto-style3 {
+    margin-left: 5px;
+}
